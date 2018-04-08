@@ -1,8 +1,8 @@
 # hw6
 # первое задание
-![](https://github.com/anastasiagoryaynova/hw6/blob/master/первое%20задание%20первая%20часть.png)
+![](https://github.com/anastasiagoryaynova/hw6/blob/master/anastasiagoryaynova_hw6:blob:maser:1задание_1часть.png)
 # второе задание
-![](https://github.com/anastasiagoryaynova/hw6/blob/master/второе%20задание%20первая%20часть.png)
+![](https://github.com/anastasiagoryaynova/hw6/blob/master/anastasiagoryaynova_hw6:blob:maser:2задание_1часть.png)
 # третье задание
-![](https://github.com/anastasiagoryaynova/hw6/blob/master/третье%20задание%20первая%20часть.png)
+![](https://github.com/anastasiagoryaynova/hw6/blob/master/anastasiagoryaynova_hw6:blob:maser:3задание_1часть.png)
 Глядя на полученных график, я могу сделать вывод, что слово "film", которое является произвоным британского английского, самое популярное среди трех других вариантов. Но что более интересно, график показывает, что частота использования слова "film" в корпусе американского английского более популярно , чем использование слова "movie", которое принято считать производным из американского английского. То есть слово "film", будучи произвдным британского английского языка, часто употребимо в обоих корпусах английского языка. Говоря же о слове "movie", единственный вывод , который можно сделать, что его частота употребления , очевидно, выше в корпусе американского английского, нежели в корпусе британского английского.
