@@ -10,4 +10,12 @@
 # Часть вторая
 # задание №1 
 ![](https://github.com/anastasiagoryaynova/hw6/blob/master/anastasiagoryaynova_hw6:1задание_2часть.png)
-# заданеи №2
+# задание №2
+![](https://github.com/anastasiagoryaynova/hw6/blob/master/anastasiagoryaynova_hw6:2задание_2часть.png)
+Я выбрала два глагола "choose" и "select". Глядя на скриншот, можно увидеть примеры дополнений , которые могут употребляться с обоими из двух синонимов, а также только те дополнения, которые могут использоваться только с одним из двух.
+Зеленым цветомобозначен дополнения, которые употребляются только с глаголом "choose", например *to choose a career*. То что выделено красным цветом употребляется с глаголом "select", например *to select a needle*. То, что выделено белым цветом - употребляется с обоими из глаголов-синонимов: *to choose a school* или *to select a school*.
+# задание №3 
+# разница между данными из Word Sketch и Google Ngrams.
+![](https://github.com/anastasiagoryaynova/hw6/blob/master/anastasiagoryaynova_hw6:3_задание_2часть.png)
+![](https://github.com/anastasiagoryaynova/hw6/blob/master/anastasiagoryaynova_hw6:3задание_2часть.png)
+Разницу можно заметить в годах,когда слово "iconography" использовалось с наибольшей частотой. В British National Corpus (BNC) показан 1992 год как пик частоты использования этого слова, а в Google Ngrams пиком является 2000 год по причине того что в Word Sketch диапозон заканчивается на 1993 году, а Google Ngrams строит график вплоть ло 2008 года. Но частота использования в Google Ngrams 1992 и в Word Sketch того же года совпадают.
